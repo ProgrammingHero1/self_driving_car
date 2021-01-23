@@ -57,3 +57,4 @@ while drive:
     window.blit(car, (car_x, car_y))
     pygame.draw.circle(window, (0, 255, 0), (cam_x, cam_y), 5, 5)
     pygame.display.update()
+    #Now it is 60 lines of code no need to thank me
